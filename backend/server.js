@@ -62,6 +62,14 @@ app.post('/postNote', express.json(), async (req, res) => {
     }
 })
 
+// Delete a single document in the collection
+// Your DELETE function for lab 2 goes here
+
+// Patch a single document in the collection
+// Your PATCH function for lab 2 goes here
+
+
+
 
 
 app.listen(PORT, () => {
