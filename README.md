@@ -10,7 +10,7 @@
   - [Database](#db)
   - [Backend](#bcknd)
 - [Your Task](#task)
-- [Frontend](#frntnd)
+- [What's Next](#next)
 
 <a id="desc"></a>
 
